@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"ALiteShopAPP "</string>
+
+
+
+    <string name="out_app">"再按一次退出程序"</string>
+    <string name="login">"登录"</string>
+    <string name="forget_pwd">"忘记密码?   "</string>
+    <string name="new_user_registration">"  新用户注册"</string>
+    <string name="othe_login">"其他登录方式"</string>
+</resources>
